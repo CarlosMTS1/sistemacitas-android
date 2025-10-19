@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "621039865613",
+    "project_id": "sistemacitas-5015c",
+    "storage_bucket": "sistemacitas-5015c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:621039865613:android:7bbd95f3db364b259d2a44",
+        "android_client_info": {
+          "package_name": "com.devteamsolo.sistemacitas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDccdFoo9ktGPsKzPpaeNIGgynsI8MxNUg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:621039865613:android:2afe5866f3c91e579d2a44",
+        "android_client_info": {
+          "package_name": "com.example.sistemacitas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDccdFoo9ktGPsKzPpaeNIGgynsI8MxNUg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,4 +1,4 @@
-package com.devteamsolo.sistemacitas.ui.theme
+package com.example.sistemacitas.ui.theme
 
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.material3.MaterialTheme
